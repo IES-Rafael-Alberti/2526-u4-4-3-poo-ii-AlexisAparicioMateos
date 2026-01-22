@@ -25,6 +25,18 @@ Ejercicio 4.6 - Compras:
 
 https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AlexisAparicioMateos/blob/5683a8bc745060656fba18d9117cce5ce36601eb/src/main/kotlin/org/iesra/compras/Main.kt#L1-L24
 
+Ejercicio 4.7 - Banco:
+
+https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AlexisAparicioMateos/blob/cf0fe59cb0ca427cbefbedc7641aad8140536f1e/src/main/kotlin/org/iesra/banco/Main.kt#L1-L34
+
+Ejercicio 4.8 - ColeccionLibros:
+
+https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AlexisAparicioMateos/blob/cf0fe59cb0ca427cbefbedc7641aad8140536f1e/src/main/kotlin/org/iesra/coleccionLibros/Main.kt#L1-L43
+
+Ejercicio 4.9 - Tareas:
+
+https://github.com/IES-Rafael-Alberti/2526-u4-4-3-poo-ii-AlexisAparicioMateos/blob/cf0fe59cb0ca427cbefbedc7641aad8140536f1e/src/main/kotlin/org/iesra/tareas/Main.kt#L1-L58
+
 ## Referencias y Fuentes
 
 [Teoria sobre POO](https://revilofe.github.io/section1/u04/teoria/PROG-U4.3.-kotlinPOO/)
