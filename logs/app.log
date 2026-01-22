@@ -10,3 +10,1437 @@
 2026-01-22 14:02:52 INFO  MainLogger - El conjunto está vacío
 2026-01-22 14:02:52 INFO  MainLogger - Contenido del conjunto:
 2026-01-22 14:02:52 INFO  MainLogger - One Piece - Eiichiro Oda | 210 páginas | Nota 10
+2026-01-22 14:13:03 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:13:03 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:13:03 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:13:03 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:13:03 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:13:03 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:13:03 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:13:03 INFO  MainLogger - 0. Salir
+2026-01-22 14:13:03 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:13:10 INFO  MainLogger - Descripción de la tarea: 
+2026-01-22 14:13:16 INFO  MainLogger - Tarea añadida
+2026-01-22 14:13:16 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:13:16 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:13:16 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:13:16 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:13:16 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:13:16 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:13:16 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:13:16 INFO  MainLogger - 0. Salir
+2026-01-22 14:13:16 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:13:21 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:13:21 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:13:21 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:13:21 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:13:21 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:13:21 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:13:21 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:13:21 INFO  MainLogger - 0. Salir
+2026-01-22 14:13:21 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:13:28 INFO  MainLogger - ID de la tarea a marcar como realizada: 
+2026-01-22 14:13:41 INFO  MainLogger - Tarea marcada como realizada
+2026-01-22 14:13:41 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:13:41 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:13:41 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:13:41 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:13:41 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:13:41 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:13:41 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:13:41 INFO  MainLogger - 0. Salir
+2026-01-22 14:13:41 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:13:46 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:13:46 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:13:46 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:13:46 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:13:46 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:13:46 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:13:46 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:13:46 INFO  MainLogger - 0. Salir
+2026-01-22 14:13:46 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:15:56 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:15:56 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:15:56 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:15:56 INFO  MainLogger - 0. Salir
+2026-01-22 14:15:56 INFO  MainLogger - Elige una opción: 
+2026-01-22 14:15:56 INFO  MainLogger - Opción no válida
+2026-01-22 14:15:56 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
