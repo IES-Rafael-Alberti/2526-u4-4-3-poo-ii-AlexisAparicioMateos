@@ -1444,3 +1444,13 @@
 --- MENÚ DE TAREAS ---
 2026-01-22 14:15:56 INFO  MainLogger - 1. Agregar tarea
 2026-01-22 14:15:56 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:24:06 INFO  MainLogger - 
+--- MENÚ DE TAREAS ---
+2026-01-22 14:24:06 INFO  MainLogger - 1. Agregar tarea
+2026-01-22 14:24:06 INFO  MainLogger - 2. Eliminar tarea
+2026-01-22 14:24:06 INFO  MainLogger - 3. Marcar tarea como realizada
+2026-01-22 14:24:06 INFO  MainLogger - 4. Mostrar todas las tareas
+2026-01-22 14:24:06 INFO  MainLogger - 5. Mostrar tareas pendientes
+2026-01-22 14:24:06 INFO  MainLogger - 6. Mostrar tareas realizadas
+2026-01-22 14:24:06 INFO  MainLogger - 0. Salir
+2026-01-22 14:24:06 INFO  MainLogger - Elige una opción: 
